@@ -138,7 +138,7 @@ These results describe patterns in the dataset but do not establish a causal rel
 ## Dashboard
 
 An interactive Excel dashboard was created to summarize the main results.
-
+![Superstore Sales & Profitability Dashboard](dashboard.png)
 ### Key Performance Indicators
 
 | KPI                    |           Value |
