@@ -25,7 +25,7 @@ The dashboard covers the **2014–2017** period and includes the following key m
 
 ### Visualizations
 
-![Superstore Sales & Profitability Dashboard](images/Dashboard1.jpeg)
+![Dashboard](https://github.com/elisabethpurba/superstore-sales-profitability/blob/631b7b3bde005fe39310046fd108b35c28605ec4/Dashboard1.jpeg)
 
 - Sales & Profit by Sub-Category
 - Monthly Sales Trend
