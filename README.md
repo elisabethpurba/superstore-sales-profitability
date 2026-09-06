@@ -25,7 +25,7 @@ The dashboard covers the **2014–2017** period and includes the following key m
 
 ### Visualizations
 
-![Hotel Booking Analysis Report](report.png)
+![Superstore Sales & Profitability Dashboard](images/Dashboard1.jpeg)
 
 - Sales & Profit by Sub-Category
 - Monthly Sales Trend
